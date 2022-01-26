@@ -1,0 +1,32 @@
+.App {
+  
+}
+.linkCss{
+    margin-right: 10px;
+}
+.linkBold{
+    margin-right: 10px;
+    font-weight: bolder;
+}
+.offcanvas-start {
+    width:200px
+}
+
+.offcanvas-current {
+    position: relative;
+}
+
+.offcanvas-body {
+    background-color: black;
+    padding: 0;
+}
+.offcanvas-body a{
+    text-decoration: none;
+}
+.word-space{
+    padding: 5px;
+}
+
+.lstgrp{
+    width: 120%;
+}
